@@ -2112,3 +2112,329 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.10.10-11.03.50:429][118]AssetCheck: New page: Asset Save: multiple assets
 [2022.10.10-11.03.50:429][118]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Level_Design/Maps/Main_level_BuiltData.Main_level_BuiltData
 [2022.10.10-11.03.50:429][118]LogContentValidation: Display: Validating World /Game/Level_Design/Maps/Main_level.Main_level
+[2022.10.10-11.04.34:033][392]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (SM_FloatingIsland_L3)
+[2022.10.10-11.04.34:554][407]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (SM_FloatingIsland_L3)
+[2022.10.10-11.04.35:325][434]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2022.10.10-11.08.01:369][927]LogContentBrowser: Deferred new asset file creation: NewWidgetBlueprint
+[2022.10.10-11.08.01:401][927]LogContentBrowser: Creating deferred item: NewWidgetBlueprint
+[2022.10.10-11.08.09:099][151]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> FinishScreen
+[2022.10.10-11.08.09:106][151]LogContentBrowser: End creating deferred item NewWidgetBlueprint
+[2022.10.10-11.08.10:681][193]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Level_Design/Blueprints/FinishScreen.FinishScreen
+[2022.10.10-11.08.44:003][236]LogSlate: FontCache flush requested. Reason: Font Atlases Full; 2/1 Pages; frames since last flush: 126236
+[2022.10.10-11.08.44:005][236]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.10-11.08.44:024][237]LogSlate: Took 0.000274 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.10.10-11.08.44:033][237]LogSlate: Took 0.000281 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2022.10.10-11.08.44:035][237]LogSlate: Took 0.000245 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2022.10.10-11.08.44:061][237]LogSlate: Took 0.000269 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.10.10-11.08.44:068][237]LogSlate: Took 0.000262 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2022.10.10-11.09.03:596][886]LogSavePackage: Moving '../../../../../../Users/cheny/Desktop/CS415/MP2/UnrealLearningKit/Saved/FinishScreen264C814E42748FC14C7DE8B004563845.tmp' to '../../../../../../Users/cheny/Desktop/CS415/MP2/UnrealLearningKit/Content/Level_Design/Blueprints/FinishScreen.uasset'
+[2022.10.10-11.09.03:637][886]AssetCheck: New page: Asset Save: FinishScreen
+[2022.10.10-11.09.03:638][886]LogContentValidation: Display: Validating WidgetBlueprint /Game/Level_Design/Blueprints/FinishScreen.FinishScreen
+[2022.10.10-11.09.04:407][910]BlueprintLog: New page: Compile FinishScreen
+[2022.10.10-11.09.04:616][910]LogUObjectHash: Compacting FUObjectHashTables data took  14.02ms
+[2022.10.10-11.09.04:844][910]LogSlate: Took 0.000247 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2022.10.10-11.09.08:009][ 10]LogSlate: Took 0.000285 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2022.10.10-11.09.18:872][341]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/LearningKit_Games/Blueprints/PlayerCharacter/BP_LearningKit_PlayerCharacter.BP_LearningKit_PlayerCharacter
+[2022.10.10-11.09.37:456][874]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2022.10.10-11.09.37:495][874]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.10.10-11.10.07:320][856]BlueprintLog: New page: Compile TriggerBox_Blueprint
+[2022.10.10-11.10.07:476][856]LogUObjectHash: Compacting FUObjectHashTables data took  11.77ms
+[2022.10.10-11.10.08:119][877]LogSavePackage: Moving '../../../../../../Users/cheny/Desktop/CS415/MP2/UnrealLearningKit/Saved/TriggerBox_BlueprintF81B9DC041A1D96B76F38986F522E8C3.tmp' to '../../../../../../Users/cheny/Desktop/CS415/MP2/UnrealLearningKit/Content/Level_Design/Blueprints/TriggerBox_Blueprint.uasset'
+[2022.10.10-11.10.08:153][877]AssetCheck: New page: Asset Save: TriggerBox_Blueprint
+[2022.10.10-11.10.08:154][877]LogContentValidation: Display: Validating Blueprint /Game/Level_Design/Blueprints/TriggerBox_Blueprint.TriggerBox_Blueprint
+[2022.10.10-11.10.11:667][994]LogTemp: Repeating last play command: Selected Viewport
+[2022.10.10-11.10.11:681][994]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.10.10-11.10.11:681][994]PIE: New page: PIE session: Main_level (Oct 10, 2022, 1:10:11 AM)
+[2022.10.10-11.10.11:681][994]LogPlayLevel: Creating play world package: /Game/Level_Design/Maps/UEDPIE_0_Main_level
+[2022.10.10-11.10.11:799][994]LogPlayLevel: PIE: StaticDuplicateObject took: (0.117633s)
+[2022.10.10-11.10.11:801][994]LogAIModule: Creating AISystem for world Main_level
+[2022.10.10-11.10.11:802][994]LogPlayLevel: PIE: World Init took: (0.002273s)
+[2022.10.10-11.10.11:802][994]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level_Design/Maps/Main_level.Main_level to /Game/Level_Design/Maps/UEDPIE_0_Main_level.Main_level (0.120242s)
+[2022.10.10-11.10.11:898][994]LogUObjectHash: Compacting FUObjectHashTables data took  11.91ms
+[2022.10.10-11.10.11:903][994]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2022.10.10-11.10.11:903][994]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.10.10-11.10.11:903][994]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.10.10-11.10.11:903][994]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.10.10-11.10.11:903][994]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.10.10-11.10.11:903][994]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.10.10-11.10.11:903][994]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.10.10-11.10.11:903][994]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.10.10-11.10.11:903][994]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.10.10-11.10.11:904][994]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.10.10-11.10.11:904][994]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.10.10-11.10.11:904][994]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.10.10-11.10.11:904][994]LogAudioMixer: Display: Initializing audio mixer.
+[2022.10.10-11.10.11:920][994]LogAudioMixer: Display: 0: FrontLeft
+[2022.10.10-11.10.11:921][994]LogAudioMixer: Display: 1: FrontRight
+[2022.10.10-11.10.11:948][994]LogAudioMixer: Display: Using Audio Device Headset Earphone (HyperX Virtual Surround Sound)
+[2022.10.10-11.10.11:948][994]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.10.10-11.10.11:948][994]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.10.10-11.10.11:948][994]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.10.10-11.10.11:949][994]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.10.10-11.10.11:949][994]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.10.10-11.10.11:949][994]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.10.10-11.10.11:951][994]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.10.10-11.10.11:951][994]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.10.10-11.10.11:951][994]LogInit: FAudioDevice initialized.
+[2022.10.10-11.10.11:951][994]LogAudio: Display: Audio Device (ID: 4) registered with world 'Main_level'.
+[2022.10.10-11.10.11:962][994]LogLoad: Game class is 'BP_LearningKitGameMode_C'
+[2022.10.10-11.10.12:023][994]LogWorld: Bringing World /Game/Level_Design/Maps/UEDPIE_0_Main_level.Main_level up for play (max tick rate 0) at 2022.10.10-06.10.12
+[2022.10.10-11.10.12:025][994]PIE: Warning: Mobility of /Game/Level_Design/Maps/UEDPIE_0_Main_level.Main_level:PersistentLevel.Mortar_BP_3 : CollisionCylinder has to be 'Movable' if you'd like to move. 
+[2022.10.10-11.10.12:025][994]PIE: Warning: Mobility of /Game/Level_Design/Maps/UEDPIE_0_Main_level.Main_level:PersistentLevel.Mortar_BP2_12 : CollisionCylinder has to be 'Movable' if you'd like to move. 
+[2022.10.10-11.10.12:026][994]PIE: Warning: Mobility of /Game/Level_Design/Maps/UEDPIE_0_Main_level.Main_level:PersistentLevel.Mortar_BP3 : CollisionCylinder has to be 'Movable' if you'd like to move. 
+[2022.10.10-11.10.12:026][994]PIE: Warning: Mobility of /Game/Level_Design/Maps/UEDPIE_0_Main_level.Main_level:PersistentLevel.Mortar_BP4 : CollisionCylinder has to be 'Movable' if you'd like to move. 
+[2022.10.10-11.10.12:026][994]PIE: Warning: Mobility of /Game/Level_Design/Maps/UEDPIE_0_Main_level.Main_level:PersistentLevel.Mortar_BP5 : CollisionCylinder has to be 'Movable' if you'd like to move. 
+[2022.10.10-11.10.12:026][994]PIE: Warning: Mobility of /Game/Level_Design/Maps/UEDPIE_0_Main_level.Main_level:PersistentLevel.Mortar_BP6 : CollisionCylinder has to be 'Movable' if you'd like to move. 
+[2022.10.10-11.10.12:027][994]PIE: Warning: Mobility of /Game/Level_Design/Maps/UEDPIE_0_Main_level.Main_level:PersistentLevel.Mortar_BP7 : CollisionCylinder has to be 'Movable' if you'd like to move. 
+[2022.10.10-11.10.12:027][994]PIE: Warning: Mobility of /Game/Level_Design/Maps/UEDPIE_0_Main_level.Main_level:PersistentLevel.Mortar_BP8 : CollisionCylinder has to be 'Movable' if you'd like to move. 
+[2022.10.10-11.10.12:027][994]PIE: Warning: Mobility of /Game/Level_Design/Maps/UEDPIE_0_Main_level.Main_level:PersistentLevel.Mortar_BP9 : CollisionCylinder has to be 'Movable' if you'd like to move. 
+[2022.10.10-11.10.12:031][994]PIE: Warning: Mobility of /Game/Level_Design/Maps/UEDPIE_0_Main_level.Main_level:PersistentLevel.Mortar_BP10_10 : CollisionCylinder has to be 'Movable' if you'd like to move. 
+[2022.10.10-11.10.12:032][994]PIE: Warning: Mobility of /Game/Level_Design/Maps/UEDPIE_0_Main_level.Main_level:PersistentLevel.Mortar_BP11 : CollisionCylinder has to be 'Movable' if you'd like to move. 
+[2022.10.10-11.10.12:032][994]PIE: Warning: Mobility of /Game/Level_Design/Maps/UEDPIE_0_Main_level.Main_level:PersistentLevel.Mortar_BP13_15 : CollisionCylinder has to be 'Movable' if you'd like to move. 
+[2022.10.10-11.10.12:032][994]LogWorld: Bringing up level for play took: 0.068087
+[2022.10.10-11.10.12:033][994]LogOnline: OSS: Creating online subsystem instance for: :Context_27
+[2022.10.10-11.10.12:048][994]PIE: Server logged in
+[2022.10.10-11.10.12:050][994]PIE: Play in editor total start time 0.372 seconds.
+[2022.10.10-11.10.12:051][994]PIE: Warning: Mobility of /Game/Level_Design/Maps/UEDPIE_0_Main_level.Main_level:PersistentLevel.Mortar_BP_3 : CollisionCylinder has to be 'Movable' if you'd like to move it with CharacterMovementComponent. 
+[2022.10.10-11.10.12:051][994]PIE: Warning: Mobility of /Game/Level_Design/Maps/UEDPIE_0_Main_level.Main_level:PersistentLevel.Mortar_BP2_12 : CollisionCylinder has to be 'Movable' if you'd like to move it with CharacterMovementComponent. 
+[2022.10.10-11.10.12:051][994]PIE: Warning: Mobility of /Game/Level_Design/Maps/UEDPIE_0_Main_level.Main_level:PersistentLevel.Mortar_BP3 : CollisionCylinder has to be 'Movable' if you'd like to move it with CharacterMovementComponent. 
+[2022.10.10-11.10.12:051][994]PIE: Warning: Mobility of /Game/Level_Design/Maps/UEDPIE_0_Main_level.Main_level:PersistentLevel.Mortar_BP4 : CollisionCylinder has to be 'Movable' if you'd like to move it with CharacterMovementComponent. 
+[2022.10.10-11.10.12:051][994]PIE: Warning: Mobility of /Game/Level_Design/Maps/UEDPIE_0_Main_level.Main_level:PersistentLevel.Mortar_BP5 : CollisionCylinder has to be 'Movable' if you'd like to move it with CharacterMovementComponent. 
+[2022.10.10-11.10.12:052][994]PIE: Warning: Mobility of /Game/Level_Design/Maps/UEDPIE_0_Main_level.Main_level:PersistentLevel.Mortar_BP6 : CollisionCylinder has to be 'Movable' if you'd like to move it with CharacterMovementComponent. 
+[2022.10.10-11.10.12:052][994]PIE: Warning: Mobility of /Game/Level_Design/Maps/UEDPIE_0_Main_level.Main_level:PersistentLevel.Mortar_BP7 : CollisionCylinder has to be 'Movable' if you'd like to move it with CharacterMovementComponent. 
+[2022.10.10-11.10.12:052][994]PIE: Warning: Mobility of /Game/Level_Design/Maps/UEDPIE_0_Main_level.Main_level:PersistentLevel.Mortar_BP8 : CollisionCylinder has to be 'Movable' if you'd like to move it with CharacterMovementComponent. 
+[2022.10.10-11.10.12:052][994]PIE: Warning: Mobility of /Game/Level_Design/Maps/UEDPIE_0_Main_level.Main_level:PersistentLevel.Mortar_BP9 : CollisionCylinder has to be 'Movable' if you'd like to move it with CharacterMovementComponent. 
+[2022.10.10-11.10.12:052][994]PIE: Warning: Mobility of /Game/Level_Design/Maps/UEDPIE_0_Main_level.Main_level:PersistentLevel.Mortar_BP10_10 : CollisionCylinder has to be 'Movable' if you'd like to move it with CharacterMovementComponent. 
+[2022.10.10-11.10.12:052][994]PIE: Warning: Mobility of /Game/Level_Design/Maps/UEDPIE_0_Main_level.Main_level:PersistentLevel.Mortar_BP11 : CollisionCylinder has to be 'Movable' if you'd like to move it with CharacterMovementComponent. 
+[2022.10.10-11.10.12:052][994]PIE: Warning: Mobility of /Game/Level_Design/Maps/UEDPIE_0_Main_level.Main_level:PersistentLevel.Mortar_BP12 : CollisionCylinder has to be 'Movable' if you'd like to move it with CharacterMovementComponent. 
+[2022.10.10-11.10.12:052][994]PIE: Warning: Mobility of /Game/Level_Design/Maps/UEDPIE_0_Main_level.Main_level:PersistentLevel.Mortar_BP13_15 : CollisionCylinder has to be 'Movable' if you'd like to move it with CharacterMovementComponent. 
+[2022.10.10-11.10.51:502][103]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.10.10-11.10.51:502][103]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2022.10.10-11.10.52:904][188]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2022.10.10-11.10.52:904][188]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2022.10.10-11.10.52:906][188]LogNet: Browse: /Game/Level_Design/Maps/Main_level
+[2022.10.10-11.10.52:906][188]LogLoad: LoadMap: /Game/Level_Design/Maps/Main_level
+[2022.10.10-11.10.52:906][188]LogWorld: BeginTearingDown for /Game/Level_Design/Maps/UEDPIE_0_Main_level
+[2022.10.10-11.10.52:909][188]LogWorld: UWorld::CleanupWorld for Main_level, bSessionEnded=true, bCleanupResources=true
+[2022.10.10-11.10.52:923][188]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.10-11.10.52:996][188]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.10.10-11.10.53:035][188]LogUObjectHash: Compacting FUObjectHashTables data took   7.44ms
+[2022.10.10-11.10.53:041][188]LogPlayLevel: Creating play world package: /Game/Level_Design/Maps/UEDPIE_0_Main_level
+[2022.10.10-11.10.53:142][188]LogPlayLevel: PIE: StaticDuplicateObject took: (0.100955s)
+[2022.10.10-11.10.53:144][188]LogAIModule: Creating AISystem for world Main_level
+[2022.10.10-11.10.53:144][188]LogPlayLevel: PIE: World Init took: (0.002074s)
+[2022.10.10-11.10.53:144][188]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level_Design/Maps/Main_level.Main_level to /Game/Level_Design/Maps/UEDPIE_0_Main_level.Main_level (0.103402s)
+[2022.10.10-11.10.53:144][188]LogAudio: Display: Audio Device (ID: 4) registered with world 'Main_level'.
+[2022.10.10-11.10.53:144][188]LogLoad: Game class is 'BP_LearningKitGameMode_C'
+[2022.10.10-11.10.53:179][188]LogWorld: Bringing World /Game/Level_Design/Maps/UEDPIE_0_Main_level.Main_level up for play (max tick rate 0) at 2022.10.10-06.10.53
+[2022.10.10-11.10.53:180][188]PIE: Warning: Mobility of /Game/Level_Design/Maps/UEDPIE_0_Main_level.Main_level:PersistentLevel.Mortar_BP_3 : CollisionCylinder has to be 'Movable' if you'd like to move. 
+[2022.10.10-11.10.53:180][188]PIE: Warning: Mobility of /Game/Level_Design/Maps/UEDPIE_0_Main_level.Main_level:PersistentLevel.Mortar_BP2_12 : CollisionCylinder has to be 'Movable' if you'd like to move. 
+[2022.10.10-11.10.53:181][188]PIE: Warning: Mobility of /Game/Level_Design/Maps/UEDPIE_0_Main_level.Main_level:PersistentLevel.Mortar_BP3 : CollisionCylinder has to be 'Movable' if you'd like to move. 
+[2022.10.10-11.10.53:181][188]PIE: Warning: Mobility of /Game/Level_Design/Maps/UEDPIE_0_Main_level.Main_level:PersistentLevel.Mortar_BP4 : CollisionCylinder has to be 'Movable' if you'd like to move. 
+[2022.10.10-11.10.53:181][188]PIE: Warning: Mobility of /Game/Level_Design/Maps/UEDPIE_0_Main_level.Main_level:PersistentLevel.Mortar_BP5 : CollisionCylinder has to be 'Movable' if you'd like to move. 
+[2022.10.10-11.10.53:181][188]PIE: Warning: Mobility of /Game/Level_Design/Maps/UEDPIE_0_Main_level.Main_level:PersistentLevel.Mortar_BP6 : CollisionCylinder has to be 'Movable' if you'd like to move. 
+[2022.10.10-11.10.53:182][188]PIE: Warning: Mobility of /Game/Level_Design/Maps/UEDPIE_0_Main_level.Main_level:PersistentLevel.Mortar_BP7 : CollisionCylinder has to be 'Movable' if you'd like to move. 
+[2022.10.10-11.10.53:182][188]PIE: Warning: Mobility of /Game/Level_Design/Maps/UEDPIE_0_Main_level.Main_level:PersistentLevel.Mortar_BP8 : CollisionCylinder has to be 'Movable' if you'd like to move. 
+[2022.10.10-11.10.53:182][188]PIE: Warning: Mobility of /Game/Level_Design/Maps/UEDPIE_0_Main_level.Main_level:PersistentLevel.Mortar_BP9 : CollisionCylinder has to be 'Movable' if you'd like to move. 
+[2022.10.10-11.10.53:186][188]PIE: Warning: Mobility of /Game/Level_Design/Maps/UEDPIE_0_Main_level.Main_level:PersistentLevel.Mortar_BP10_10 : CollisionCylinder has to be 'Movable' if you'd like to move. 
+[2022.10.10-11.10.53:186][188]PIE: Warning: Mobility of /Game/Level_Design/Maps/UEDPIE_0_Main_level.Main_level:PersistentLevel.Mortar_BP11 : CollisionCylinder has to be 'Movable' if you'd like to move. 
+[2022.10.10-11.10.53:186][188]PIE: Warning: Mobility of /Game/Level_Design/Maps/UEDPIE_0_Main_level.Main_level:PersistentLevel.Mortar_BP13_15 : CollisionCylinder has to be 'Movable' if you'd like to move. 
+[2022.10.10-11.10.53:187][188]LogWorld: Bringing up level for play took: 0.037153
+[2022.10.10-11.10.53:204][188]LogLoad: Took 0.297893 seconds to LoadMap(/Game/Level_Design/Maps/UEDPIE_0_Main_level)
+[2022.10.10-11.10.53:205][188]PIE: Warning: Mobility of /Game/Level_Design/Maps/UEDPIE_0_Main_level.Main_level:PersistentLevel.Mortar_BP_3 : CollisionCylinder has to be 'Movable' if you'd like to move it with CharacterMovementComponent. 
+[2022.10.10-11.10.53:205][188]PIE: Warning: Mobility of /Game/Level_Design/Maps/UEDPIE_0_Main_level.Main_level:PersistentLevel.Mortar_BP2_12 : CollisionCylinder has to be 'Movable' if you'd like to move it with CharacterMovementComponent. 
+[2022.10.10-11.10.53:205][188]PIE: Warning: Mobility of /Game/Level_Design/Maps/UEDPIE_0_Main_level.Main_level:PersistentLevel.Mortar_BP3 : CollisionCylinder has to be 'Movable' if you'd like to move it with CharacterMovementComponent. 
+[2022.10.10-11.10.53:205][188]PIE: Warning: Mobility of /Game/Level_Design/Maps/UEDPIE_0_Main_level.Main_level:PersistentLevel.Mortar_BP4 : CollisionCylinder has to be 'Movable' if you'd like to move it with CharacterMovementComponent. 
+[2022.10.10-11.10.53:205][188]PIE: Warning: Mobility of /Game/Level_Design/Maps/UEDPIE_0_Main_level.Main_level:PersistentLevel.Mortar_BP5 : CollisionCylinder has to be 'Movable' if you'd like to move it with CharacterMovementComponent. 
+[2022.10.10-11.10.53:205][188]PIE: Warning: Mobility of /Game/Level_Design/Maps/UEDPIE_0_Main_level.Main_level:PersistentLevel.Mortar_BP6 : CollisionCylinder has to be 'Movable' if you'd like to move it with CharacterMovementComponent. 
+[2022.10.10-11.10.53:205][188]PIE: Warning: Mobility of /Game/Level_Design/Maps/UEDPIE_0_Main_level.Main_level:PersistentLevel.Mortar_BP7 : CollisionCylinder has to be 'Movable' if you'd like to move it with CharacterMovementComponent. 
+[2022.10.10-11.10.53:205][188]PIE: Warning: Mobility of /Game/Level_Design/Maps/UEDPIE_0_Main_level.Main_level:PersistentLevel.Mortar_BP8 : CollisionCylinder has to be 'Movable' if you'd like to move it with CharacterMovementComponent. 
+[2022.10.10-11.10.53:205][188]PIE: Warning: Mobility of /Game/Level_Design/Maps/UEDPIE_0_Main_level.Main_level:PersistentLevel.Mortar_BP9 : CollisionCylinder has to be 'Movable' if you'd like to move it with CharacterMovementComponent. 
+[2022.10.10-11.10.53:206][188]PIE: Warning: Mobility of /Game/Level_Design/Maps/UEDPIE_0_Main_level.Main_level:PersistentLevel.Mortar_BP10_10 : CollisionCylinder has to be 'Movable' if you'd like to move it with CharacterMovementComponent. 
+[2022.10.10-11.10.53:206][188]PIE: Warning: Mobility of /Game/Level_Design/Maps/UEDPIE_0_Main_level.Main_level:PersistentLevel.Mortar_BP11 : CollisionCylinder has to be 'Movable' if you'd like to move it with CharacterMovementComponent. 
+[2022.10.10-11.10.53:206][188]PIE: Warning: Mobility of /Game/Level_Design/Maps/UEDPIE_0_Main_level.Main_level:PersistentLevel.Mortar_BP12 : CollisionCylinder has to be 'Movable' if you'd like to move it with CharacterMovementComponent. 
+[2022.10.10-11.10.53:206][188]PIE: Warning: Mobility of /Game/Level_Design/Maps/UEDPIE_0_Main_level.Main_level:PersistentLevel.Mortar_BP13_15 : CollisionCylinder has to be 'Movable' if you'd like to move it with CharacterMovementComponent. 
+[2022.10.10-11.11.05:778][855]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.10-11.11.05:778][855]LogWorld: BeginTearingDown for /Game/Level_Design/Maps/UEDPIE_0_Main_level
+[2022.10.10-11.11.05:780][855]LogWorld: UWorld::CleanupWorld for Main_level, bSessionEnded=true, bCleanupResources=true
+[2022.10.10-11.11.05:790][855]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.10-11.11.05:810][855]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.10.10-11.11.05:831][855]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.10-11.11.05:902][855]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.10.10-11.11.05:902][855]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.10.10-11.11.05:904][855]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.10.10-11.11.05:907][855]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.10-11.11.05:922][855]LogUObjectHash: Compacting FUObjectHashTables data took   7.24ms
+[2022.10.10-11.11.06:076][856]LogPlayLevel: Display: Destroying online subsystem :Context_27
+[2022.10.10-11.11.07:273][907]LogSlate: Window 'Message Log' being destroyed
+[2022.10.10-11.11.07:298][907]LogSlate: Window 'Message Log' being destroyed
+[2022.10.10-11.11.07:943][937]LogTemp: Repeating last play command: Selected Viewport
+[2022.10.10-11.11.07:961][937]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.10.10-11.11.07:962][937]PIE: New page: PIE session: Main_level (Oct 10, 2022, 1:11:07 AM)
+[2022.10.10-11.11.07:962][937]LogPlayLevel: Creating play world package: /Game/Level_Design/Maps/UEDPIE_0_Main_level
+[2022.10.10-11.11.08:117][937]LogPlayLevel: PIE: StaticDuplicateObject took: (0.154918s)
+[2022.10.10-11.11.08:119][937]LogAIModule: Creating AISystem for world Main_level
+[2022.10.10-11.11.08:120][937]LogPlayLevel: PIE: World Init took: (0.002452s)
+[2022.10.10-11.11.08:120][937]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level_Design/Maps/Main_level.Main_level to /Game/Level_Design/Maps/UEDPIE_0_Main_level.Main_level (0.157757s)
+[2022.10.10-11.11.08:223][937]LogUObjectHash: Compacting FUObjectHashTables data took  10.32ms
+[2022.10.10-11.11.08:225][937]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2022.10.10-11.11.08:226][937]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.10.10-11.11.08:226][937]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.10.10-11.11.08:226][937]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.10.10-11.11.08:226][937]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.10.10-11.11.08:226][937]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.10.10-11.11.08:226][937]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.10.10-11.11.08:226][937]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.10.10-11.11.08:226][937]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.10.10-11.11.08:227][937]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.10.10-11.11.08:227][937]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.10.10-11.11.08:227][937]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.10.10-11.11.08:227][937]LogAudioMixer: Display: Initializing audio mixer.
+[2022.10.10-11.11.08:247][937]LogAudioMixer: Display: 0: FrontLeft
+[2022.10.10-11.11.08:247][937]LogAudioMixer: Display: 1: FrontRight
+[2022.10.10-11.11.08:276][937]LogAudioMixer: Display: Using Audio Device Headset Earphone (HyperX Virtual Surround Sound)
+[2022.10.10-11.11.08:277][937]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.10.10-11.11.08:277][937]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.10.10-11.11.08:277][937]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.10.10-11.11.08:278][937]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.10.10-11.11.08:278][937]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.10.10-11.11.08:278][937]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.10.10-11.11.08:280][937]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.10.10-11.11.08:280][937]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.10.10-11.11.08:280][937]LogInit: FAudioDevice initialized.
+[2022.10.10-11.11.08:280][937]LogAudio: Display: Audio Device (ID: 5) registered with world 'Main_level'.
+[2022.10.10-11.11.08:296][937]LogLoad: Game class is 'BP_LearningKitGameMode_C'
+[2022.10.10-11.11.08:365][937]LogWorld: Bringing World /Game/Level_Design/Maps/UEDPIE_0_Main_level.Main_level up for play (max tick rate 0) at 2022.10.10-06.11.08
+[2022.10.10-11.11.08:367][937]PIE: Warning: Mobility of /Game/Level_Design/Maps/UEDPIE_0_Main_level.Main_level:PersistentLevel.Mortar_BP_3 : CollisionCylinder has to be 'Movable' if you'd like to move. 
+[2022.10.10-11.11.08:367][937]PIE: Warning: Mobility of /Game/Level_Design/Maps/UEDPIE_0_Main_level.Main_level:PersistentLevel.Mortar_BP2_12 : CollisionCylinder has to be 'Movable' if you'd like to move. 
+[2022.10.10-11.11.08:368][937]PIE: Warning: Mobility of /Game/Level_Design/Maps/UEDPIE_0_Main_level.Main_level:PersistentLevel.Mortar_BP3 : CollisionCylinder has to be 'Movable' if you'd like to move. 
+[2022.10.10-11.11.08:368][937]PIE: Warning: Mobility of /Game/Level_Design/Maps/UEDPIE_0_Main_level.Main_level:PersistentLevel.Mortar_BP4 : CollisionCylinder has to be 'Movable' if you'd like to move. 
+[2022.10.10-11.11.08:368][937]PIE: Warning: Mobility of /Game/Level_Design/Maps/UEDPIE_0_Main_level.Main_level:PersistentLevel.Mortar_BP5 : CollisionCylinder has to be 'Movable' if you'd like to move. 
+[2022.10.10-11.11.08:369][937]PIE: Warning: Mobility of /Game/Level_Design/Maps/UEDPIE_0_Main_level.Main_level:PersistentLevel.Mortar_BP6 : CollisionCylinder has to be 'Movable' if you'd like to move. 
+[2022.10.10-11.11.08:369][937]PIE: Warning: Mobility of /Game/Level_Design/Maps/UEDPIE_0_Main_level.Main_level:PersistentLevel.Mortar_BP7 : CollisionCylinder has to be 'Movable' if you'd like to move. 
+[2022.10.10-11.11.08:369][937]PIE: Warning: Mobility of /Game/Level_Design/Maps/UEDPIE_0_Main_level.Main_level:PersistentLevel.Mortar_BP8 : CollisionCylinder has to be 'Movable' if you'd like to move. 
+[2022.10.10-11.11.08:369][937]PIE: Warning: Mobility of /Game/Level_Design/Maps/UEDPIE_0_Main_level.Main_level:PersistentLevel.Mortar_BP9 : CollisionCylinder has to be 'Movable' if you'd like to move. 
+[2022.10.10-11.11.08:374][937]PIE: Warning: Mobility of /Game/Level_Design/Maps/UEDPIE_0_Main_level.Main_level:PersistentLevel.Mortar_BP10_10 : CollisionCylinder has to be 'Movable' if you'd like to move. 
+[2022.10.10-11.11.08:374][937]PIE: Warning: Mobility of /Game/Level_Design/Maps/UEDPIE_0_Main_level.Main_level:PersistentLevel.Mortar_BP11 : CollisionCylinder has to be 'Movable' if you'd like to move. 
+[2022.10.10-11.11.08:375][937]PIE: Warning: Mobility of /Game/Level_Design/Maps/UEDPIE_0_Main_level.Main_level:PersistentLevel.Mortar_BP13_15 : CollisionCylinder has to be 'Movable' if you'd like to move. 
+[2022.10.10-11.11.08:375][937]LogWorld: Bringing up level for play took: 0.073702
+[2022.10.10-11.11.08:375][937]LogOnline: OSS: Creating online subsystem instance for: :Context_28
+[2022.10.10-11.11.08:393][937]PIE: Server logged in
+[2022.10.10-11.11.08:394][937]PIE: Play in editor total start time 0.437 seconds.
+[2022.10.10-11.11.08:396][937]PIE: Warning: Mobility of /Game/Level_Design/Maps/UEDPIE_0_Main_level.Main_level:PersistentLevel.Mortar_BP_3 : CollisionCylinder has to be 'Movable' if you'd like to move it with CharacterMovementComponent. 
+[2022.10.10-11.11.08:396][937]PIE: Warning: Mobility of /Game/Level_Design/Maps/UEDPIE_0_Main_level.Main_level:PersistentLevel.Mortar_BP2_12 : CollisionCylinder has to be 'Movable' if you'd like to move it with CharacterMovementComponent. 
+[2022.10.10-11.11.08:396][937]PIE: Warning: Mobility of /Game/Level_Design/Maps/UEDPIE_0_Main_level.Main_level:PersistentLevel.Mortar_BP3 : CollisionCylinder has to be 'Movable' if you'd like to move it with CharacterMovementComponent. 
+[2022.10.10-11.11.08:396][937]PIE: Warning: Mobility of /Game/Level_Design/Maps/UEDPIE_0_Main_level.Main_level:PersistentLevel.Mortar_BP4 : CollisionCylinder has to be 'Movable' if you'd like to move it with CharacterMovementComponent. 
+[2022.10.10-11.11.08:396][937]PIE: Warning: Mobility of /Game/Level_Design/Maps/UEDPIE_0_Main_level.Main_level:PersistentLevel.Mortar_BP5 : CollisionCylinder has to be 'Movable' if you'd like to move it with CharacterMovementComponent. 
+[2022.10.10-11.11.08:396][937]PIE: Warning: Mobility of /Game/Level_Design/Maps/UEDPIE_0_Main_level.Main_level:PersistentLevel.Mortar_BP6 : CollisionCylinder has to be 'Movable' if you'd like to move it with CharacterMovementComponent. 
+[2022.10.10-11.11.08:396][937]PIE: Warning: Mobility of /Game/Level_Design/Maps/UEDPIE_0_Main_level.Main_level:PersistentLevel.Mortar_BP7 : CollisionCylinder has to be 'Movable' if you'd like to move it with CharacterMovementComponent. 
+[2022.10.10-11.11.08:396][937]PIE: Warning: Mobility of /Game/Level_Design/Maps/UEDPIE_0_Main_level.Main_level:PersistentLevel.Mortar_BP8 : CollisionCylinder has to be 'Movable' if you'd like to move it with CharacterMovementComponent. 
+[2022.10.10-11.11.08:396][937]PIE: Warning: Mobility of /Game/Level_Design/Maps/UEDPIE_0_Main_level.Main_level:PersistentLevel.Mortar_BP9 : CollisionCylinder has to be 'Movable' if you'd like to move it with CharacterMovementComponent. 
+[2022.10.10-11.11.08:397][937]PIE: Warning: Mobility of /Game/Level_Design/Maps/UEDPIE_0_Main_level.Main_level:PersistentLevel.Mortar_BP10_10 : CollisionCylinder has to be 'Movable' if you'd like to move it with CharacterMovementComponent. 
+[2022.10.10-11.11.08:397][937]PIE: Warning: Mobility of /Game/Level_Design/Maps/UEDPIE_0_Main_level.Main_level:PersistentLevel.Mortar_BP11 : CollisionCylinder has to be 'Movable' if you'd like to move it with CharacterMovementComponent. 
+[2022.10.10-11.11.08:397][937]PIE: Warning: Mobility of /Game/Level_Design/Maps/UEDPIE_0_Main_level.Main_level:PersistentLevel.Mortar_BP12 : CollisionCylinder has to be 'Movable' if you'd like to move it with CharacterMovementComponent. 
+[2022.10.10-11.11.08:397][937]PIE: Warning: Mobility of /Game/Level_Design/Maps/UEDPIE_0_Main_level.Main_level:PersistentLevel.Mortar_BP13_15 : CollisionCylinder has to be 'Movable' if you'd like to move it with CharacterMovementComponent. 
+[2022.10.10-11.11.09:778][ 45]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.10-11.11.09:778][ 45]LogWorld: BeginTearingDown for /Game/Level_Design/Maps/UEDPIE_0_Main_level
+[2022.10.10-11.11.09:779][ 45]LogWorld: UWorld::CleanupWorld for Main_level, bSessionEnded=true, bCleanupResources=true
+[2022.10.10-11.11.09:786][ 45]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.10-11.11.09:798][ 45]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.10.10-11.11.09:818][ 45]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.10-11.11.09:890][ 45]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.10-11.11.09:893][ 45]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.10.10-11.11.09:895][ 45]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.10.10-11.11.09:912][ 45]LogUObjectHash: Compacting FUObjectHashTables data took   8.17ms
+[2022.10.10-11.11.10:061][ 46]LogPlayLevel: Display: Destroying online subsystem :Context_28
+[2022.10.10-11.11.11:134][ 97]LogSlate: Window 'Message Log' being destroyed
+[2022.10.10-11.11.11:151][ 97]LogSlate: Window 'Message Log' being destroyed
+[2022.10.10-11.11.22:219][546]BlueprintLog: New page: Compile BP_LearningKit_PlayerCharacter
+[2022.10.10-11.11.22:504][546]LogUObjectHash: Compacting FUObjectHashTables data took  11.20ms
+[2022.10.10-11.11.23:573][561]LogSavePackage: Moving '../../../../../../Users/cheny/Desktop/CS415/MP2/UnrealLearningKit/Saved/BP_LearningKit_PlayerCharacterFE5CF5FF4487CE8F98545294A68B3EDF.tmp' to '../../../../../../Users/cheny/Desktop/CS415/MP2/UnrealLearningKit/Content/LearningKit_Games/Blueprints/PlayerCharacter/BP_LearningKit_PlayerCharacter.uasset'
+[2022.10.10-11.11.23:618][561]AssetCheck: New page: Asset Save: BP_LearningKit_PlayerCharacter
+[2022.10.10-11.11.23:618][561]LogContentValidation: Display: Validating Blueprint /Game/LearningKit_Games/Blueprints/PlayerCharacter/BP_LearningKit_PlayerCharacter.BP_LearningKit_PlayerCharacter
+[2022.10.10-11.11.25:158][639]LogTemp: Repeating last play command: Selected Viewport
+[2022.10.10-11.11.25:172][639]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.10.10-11.11.25:172][639]PIE: New page: PIE session: Main_level (Oct 10, 2022, 1:11:25 AM)
+[2022.10.10-11.11.25:172][639]LogPlayLevel: Creating play world package: /Game/Level_Design/Maps/UEDPIE_0_Main_level
+[2022.10.10-11.11.25:312][639]LogPlayLevel: PIE: StaticDuplicateObject took: (0.139905s)
+[2022.10.10-11.11.25:314][639]LogAIModule: Creating AISystem for world Main_level
+[2022.10.10-11.11.25:315][639]LogPlayLevel: PIE: World Init took: (0.002988s)
+[2022.10.10-11.11.25:315][639]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level_Design/Maps/Main_level.Main_level to /Game/Level_Design/Maps/UEDPIE_0_Main_level.Main_level (0.143296s)
+[2022.10.10-11.11.25:429][639]LogUObjectHash: Compacting FUObjectHashTables data took  13.80ms
+[2022.10.10-11.11.25:431][639]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2022.10.10-11.11.25:431][639]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.10.10-11.11.25:431][639]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.10.10-11.11.25:431][639]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.10.10-11.11.25:431][639]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.10.10-11.11.25:431][639]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.10.10-11.11.25:431][639]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.10.10-11.11.25:431][639]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.10.10-11.11.25:431][639]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.10.10-11.11.25:432][639]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.10.10-11.11.25:432][639]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.10.10-11.11.25:432][639]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.10.10-11.11.25:432][639]LogAudioMixer: Display: Initializing audio mixer.
+[2022.10.10-11.11.25:448][639]LogAudioMixer: Display: 0: FrontLeft
+[2022.10.10-11.11.25:449][639]LogAudioMixer: Display: 1: FrontRight
+[2022.10.10-11.11.25:472][639]LogAudioMixer: Display: Using Audio Device Headset Earphone (HyperX Virtual Surround Sound)
+[2022.10.10-11.11.25:472][639]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.10.10-11.11.25:472][639]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.10.10-11.11.25:472][639]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.10.10-11.11.25:473][639]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.10.10-11.11.25:473][639]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.10.10-11.11.25:473][639]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.10.10-11.11.25:475][639]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.10.10-11.11.25:475][639]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.10.10-11.11.25:475][639]LogInit: FAudioDevice initialized.
+[2022.10.10-11.11.25:475][639]LogAudio: Display: Audio Device (ID: 6) registered with world 'Main_level'.
+[2022.10.10-11.11.25:486][639]LogLoad: Game class is 'BP_LearningKitGameMode_C'
+[2022.10.10-11.11.25:547][639]LogWorld: Bringing World /Game/Level_Design/Maps/UEDPIE_0_Main_level.Main_level up for play (max tick rate 0) at 2022.10.10-06.11.25
+[2022.10.10-11.11.25:549][639]PIE: Warning: Mobility of /Game/Level_Design/Maps/UEDPIE_0_Main_level.Main_level:PersistentLevel.Mortar_BP_3 : CollisionCylinder has to be 'Movable' if you'd like to move. 
+[2022.10.10-11.11.25:549][639]PIE: Warning: Mobility of /Game/Level_Design/Maps/UEDPIE_0_Main_level.Main_level:PersistentLevel.Mortar_BP2_12 : CollisionCylinder has to be 'Movable' if you'd like to move. 
+[2022.10.10-11.11.25:550][639]PIE: Warning: Mobility of /Game/Level_Design/Maps/UEDPIE_0_Main_level.Main_level:PersistentLevel.Mortar_BP3 : CollisionCylinder has to be 'Movable' if you'd like to move. 
+[2022.10.10-11.11.25:550][639]PIE: Warning: Mobility of /Game/Level_Design/Maps/UEDPIE_0_Main_level.Main_level:PersistentLevel.Mortar_BP4 : CollisionCylinder has to be 'Movable' if you'd like to move. 
+[2022.10.10-11.11.25:550][639]PIE: Warning: Mobility of /Game/Level_Design/Maps/UEDPIE_0_Main_level.Main_level:PersistentLevel.Mortar_BP5 : CollisionCylinder has to be 'Movable' if you'd like to move. 
+[2022.10.10-11.11.25:550][639]PIE: Warning: Mobility of /Game/Level_Design/Maps/UEDPIE_0_Main_level.Main_level:PersistentLevel.Mortar_BP6 : CollisionCylinder has to be 'Movable' if you'd like to move. 
+[2022.10.10-11.11.25:551][639]PIE: Warning: Mobility of /Game/Level_Design/Maps/UEDPIE_0_Main_level.Main_level:PersistentLevel.Mortar_BP7 : CollisionCylinder has to be 'Movable' if you'd like to move. 
+[2022.10.10-11.11.25:551][639]PIE: Warning: Mobility of /Game/Level_Design/Maps/UEDPIE_0_Main_level.Main_level:PersistentLevel.Mortar_BP8 : CollisionCylinder has to be 'Movable' if you'd like to move. 
+[2022.10.10-11.11.25:551][639]PIE: Warning: Mobility of /Game/Level_Design/Maps/UEDPIE_0_Main_level.Main_level:PersistentLevel.Mortar_BP9 : CollisionCylinder has to be 'Movable' if you'd like to move. 
+[2022.10.10-11.11.25:555][639]PIE: Warning: Mobility of /Game/Level_Design/Maps/UEDPIE_0_Main_level.Main_level:PersistentLevel.Mortar_BP10_10 : CollisionCylinder has to be 'Movable' if you'd like to move. 
+[2022.10.10-11.11.25:556][639]PIE: Warning: Mobility of /Game/Level_Design/Maps/UEDPIE_0_Main_level.Main_level:PersistentLevel.Mortar_BP11 : CollisionCylinder has to be 'Movable' if you'd like to move. 
+[2022.10.10-11.11.25:556][639]PIE: Warning: Mobility of /Game/Level_Design/Maps/UEDPIE_0_Main_level.Main_level:PersistentLevel.Mortar_BP13_15 : CollisionCylinder has to be 'Movable' if you'd like to move. 
+[2022.10.10-11.11.25:556][639]LogWorld: Bringing up level for play took: 0.065430
+[2022.10.10-11.11.25:557][639]LogOnline: OSS: Creating online subsystem instance for: :Context_30
+[2022.10.10-11.11.25:573][639]PIE: Server logged in
+[2022.10.10-11.11.25:574][639]PIE: Play in editor total start time 0.405 seconds.
+[2022.10.10-11.11.25:575][639]PIE: Warning: Mobility of /Game/Level_Design/Maps/UEDPIE_0_Main_level.Main_level:PersistentLevel.Mortar_BP_3 : CollisionCylinder has to be 'Movable' if you'd like to move it with CharacterMovementComponent. 
+[2022.10.10-11.11.25:575][639]PIE: Warning: Mobility of /Game/Level_Design/Maps/UEDPIE_0_Main_level.Main_level:PersistentLevel.Mortar_BP2_12 : CollisionCylinder has to be 'Movable' if you'd like to move it with CharacterMovementComponent. 
+[2022.10.10-11.11.25:575][639]PIE: Warning: Mobility of /Game/Level_Design/Maps/UEDPIE_0_Main_level.Main_level:PersistentLevel.Mortar_BP3 : CollisionCylinder has to be 'Movable' if you'd like to move it with CharacterMovementComponent. 
+[2022.10.10-11.11.25:575][639]PIE: Warning: Mobility of /Game/Level_Design/Maps/UEDPIE_0_Main_level.Main_level:PersistentLevel.Mortar_BP4 : CollisionCylinder has to be 'Movable' if you'd like to move it with CharacterMovementComponent. 
+[2022.10.10-11.11.25:575][639]PIE: Warning: Mobility of /Game/Level_Design/Maps/UEDPIE_0_Main_level.Main_level:PersistentLevel.Mortar_BP5 : CollisionCylinder has to be 'Movable' if you'd like to move it with CharacterMovementComponent. 
+[2022.10.10-11.11.25:575][639]PIE: Warning: Mobility of /Game/Level_Design/Maps/UEDPIE_0_Main_level.Main_level:PersistentLevel.Mortar_BP6 : CollisionCylinder has to be 'Movable' if you'd like to move it with CharacterMovementComponent. 
+[2022.10.10-11.11.25:575][639]PIE: Warning: Mobility of /Game/Level_Design/Maps/UEDPIE_0_Main_level.Main_level:PersistentLevel.Mortar_BP7 : CollisionCylinder has to be 'Movable' if you'd like to move it with CharacterMovementComponent. 
+[2022.10.10-11.11.25:575][639]PIE: Warning: Mobility of /Game/Level_Design/Maps/UEDPIE_0_Main_level.Main_level:PersistentLevel.Mortar_BP8 : CollisionCylinder has to be 'Movable' if you'd like to move it with CharacterMovementComponent. 
+[2022.10.10-11.11.25:575][639]PIE: Warning: Mobility of /Game/Level_Design/Maps/UEDPIE_0_Main_level.Main_level:PersistentLevel.Mortar_BP9 : CollisionCylinder has to be 'Movable' if you'd like to move it with CharacterMovementComponent. 
+[2022.10.10-11.11.25:576][639]PIE: Warning: Mobility of /Game/Level_Design/Maps/UEDPIE_0_Main_level.Main_level:PersistentLevel.Mortar_BP10_10 : CollisionCylinder has to be 'Movable' if you'd like to move it with CharacterMovementComponent. 
+[2022.10.10-11.11.25:576][639]PIE: Warning: Mobility of /Game/Level_Design/Maps/UEDPIE_0_Main_level.Main_level:PersistentLevel.Mortar_BP11 : CollisionCylinder has to be 'Movable' if you'd like to move it with CharacterMovementComponent. 
+[2022.10.10-11.11.25:576][639]PIE: Warning: Mobility of /Game/Level_Design/Maps/UEDPIE_0_Main_level.Main_level:PersistentLevel.Mortar_BP12 : CollisionCylinder has to be 'Movable' if you'd like to move it with CharacterMovementComponent. 
+[2022.10.10-11.11.25:576][639]PIE: Warning: Mobility of /Game/Level_Design/Maps/UEDPIE_0_Main_level.Main_level:PersistentLevel.Mortar_BP13_15 : CollisionCylinder has to be 'Movable' if you'd like to move it with CharacterMovementComponent. 
+[2022.10.10-11.11.44:330][679]LogCharacterMovement: Chaser_BP16 is stuck and failed to move! Velocity: X=347.05 Y=-489.45 Z=0.00 Location: X=-2222.73 Y=20991.78 Z=2517.43 Normal: X=-0.34 Y=0.81 Z=-0.48 PenetrationDepth:0.994 Actor:MortarBullet_BP_C_245 Component:bulletMesh BoneName:None (0 other events since notify)
+[2022.10.10-11.11.57:598][186]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.10-11.11.57:598][186]LogWorld: BeginTearingDown for /Game/Level_Design/Maps/UEDPIE_0_Main_level
+[2022.10.10-11.11.57:600][186]LogWorld: UWorld::CleanupWorld for Main_level, bSessionEnded=true, bCleanupResources=true
+[2022.10.10-11.11.57:611][186]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.10-11.11.57:637][186]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.10.10-11.11.57:659][186]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.10-11.11.57:734][186]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.10.10-11.11.57:735][186]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.10.10-11.11.57:736][186]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.10.10-11.11.57:740][186]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.10-11.11.57:758][186]LogUObjectHash: Compacting FUObjectHashTables data took   7.68ms
+[2022.10.10-11.11.57:922][187]LogPlayLevel: Display: Destroying online subsystem :Context_30
+[2022.10.10-11.11.59:315][218]LogSlate: Window 'Message Log' being destroyed
+[2022.10.10-11.11.59:359][218]LogSlate: Window 'Message Log' being destroyed
+[2022.10.10-11.12.04:710][363]BlueprintLog: New page: Compile BP_LearningKit_PlayerCharacter
+[2022.10.10-11.12.04:987][363]LogUObjectHash: Compacting FUObjectHashTables data took  11.01ms
+[2022.10.10-11.12.06:492][389]LogSavePackage: Moving '../../../../../../Users/cheny/Desktop/CS415/MP2/UnrealLearningKit/Saved/BP_LearningKit_PlayerCharacter7F5506B4475CF8902B27E2BAD43A3722.tmp' to '../../../../../../Users/cheny/Desktop/CS415/MP2/UnrealLearningKit/Content/LearningKit_Games/Blueprints/PlayerCharacter/BP_LearningKit_PlayerCharacter.uasset'
+[2022.10.10-11.12.06:527][389]AssetCheck: New page: Asset Save: BP_LearningKit_PlayerCharacter
+[2022.10.10-11.12.06:527][389]LogContentValidation: Display: Validating Blueprint /Game/LearningKit_Games/Blueprints/PlayerCharacter/BP_LearningKit_PlayerCharacter.BP_LearningKit_PlayerCharacter
